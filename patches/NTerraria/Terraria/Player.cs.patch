@@ -1,0 +1,11 @@
+--- src/decompiled/Terraria/Player.cs
++++ src/NTerraria/Terraria/Player.cs
+@@ -37,7 +_,7 @@
+ 
+ namespace Terraria
+ {
+-	public class Player : Entity
++	public partial class Player : Entity
+ 	{
+ 		public static class BuilderAccToggleIDs
+ 		{
