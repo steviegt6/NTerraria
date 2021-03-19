@@ -9,6 +9,10 @@
 		"Terraria": {
 			"PatchesDir": "Terraria",
 			"SrcDir": "Terraria"
+		},
+		"NTerraria": {
+			"PatchesDir": "NTerraria",
+			"SrcDir": "NTerraria"
 		}
 	}
 }
